@@ -12,7 +12,6 @@ use best practices all around
     
     # add this to your .zshrc
     eval "$(direnv hook zsh)"
-    plugins=(direnv)
 ```
 
 - Set up end vars
