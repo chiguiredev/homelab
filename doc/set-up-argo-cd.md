@@ -1,7 +1,6 @@
-## TODO / QUESTIONS
-- [ ] Where does config lives?
-- [ ] How to install Argo in cluster?
-- [ ] How to to have multiple envs (dev / prod)?
+## TODO 
+- [x] Start investigation on how to approach the installation of argo cd
+- [ ] Go through the questions with Claude
 
 ## DONE
 
